@@ -79,7 +79,8 @@ change the file path and run **testPicture.ipynb**
 7. Testing the model on Videos
 Change the file path and run **testVideo.py**
 
-![1933AB7D-D952-4172-8D5F-7A60118B412F_1_206_a](https://github.com/user-attachments/assets/3a44dd37-2f5d-4cfa-b85a-b0310df2d108)
+https://github.com/user-attachments/assets/91c8ac04-a7ea-4d1b-ab2d-44f73736025e
+
 
 ## Results
 Once the detection is complete, the processed videos and images will be saved in the following directories:
